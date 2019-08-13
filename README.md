@@ -1,0 +1,2 @@
+# fapi
+The faster API
