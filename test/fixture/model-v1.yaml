@@ -1,0 +1,23 @@
+requiredField:
+  required: true
+  type: "string"
+
+stringField:
+  type: "string"
+
+intField:
+  type: "int"
+
+floatField:
+  type: "float"
+
+dateField:
+  type: "date"
+  template: "2006-02-01"
+
+dateTimeField:
+  type: "datetime"
+  template: "2006-02-01 15:04:05"
+
+boolField:
+  type: "bool"

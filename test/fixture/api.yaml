@@ -1,0 +1,7 @@
+
+name: "api-name"
+routes: 
+  - path: "v1"
+    model: "model-v1.yaml"
+  - path: "v2"
+    model: "model-v1.yaml"
